@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Website Sutter</title>
+	<title>Carly Sutter</title>
 	<style>
 		body {
 			font-family: Arial, sans-serif;
@@ -23,7 +23,7 @@
 </head>
 <body>
 	<div class="header">
-		<h1>Carly Sutter<h1>
+		<h1>Academic Website</h1>
 	</div>
 	<div class="section">
 		<h2>About Me</h2>
